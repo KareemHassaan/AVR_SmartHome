@@ -2,8 +2,8 @@ To do any edit on files:
 
 
 
-1-Pull from master -> git pull origin master \n
-2-Finish the needed task ( ON TEXT EDITOR ON LAPTOP)\n
+1-Pull from master -> git pull origin master 
+2-Finish the needed task ( ON TEXT EDITOR ON LAPTOP)
 3-Add to your branch -> git add .\n
 4-Comment your edits -> git commit -m "your Comment"
 5-Push the content -> git push origin AHMED_GAMAL

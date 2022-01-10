@@ -14,3 +14,4 @@ To do any edit on files:
 	iv ) Create Pull Request
 V ) Write the comment to what is edited
 7) THANK YOU ANY QUESTIONS ?
+8) Thank you olna
